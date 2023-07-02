@@ -1,1 +1,1 @@
-/home/hactar/.config/kitty/tab-themes/rounded/rounded.py
+tab-themes/rounded/rounded.py
